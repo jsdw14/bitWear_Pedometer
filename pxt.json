@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "datalogger": "*"
+        "datalogger": "*",
+        "minode": "github:minodekit/pxt-minode#v1.1.0"
     },
     "files": [
         "main.blocks",
